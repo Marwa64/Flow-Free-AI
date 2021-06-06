@@ -1,4 +1,3 @@
-% ['D:/Marwa/1. University Folder/Artificial Intelligence/Assignment 2/game2.pl'].
 
 grid(5,5).
 
