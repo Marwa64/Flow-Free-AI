@@ -1,4 +1,3 @@
-% ['D:/Marwa/1. University Folder/Artificial Intelligence/Assignment 2/solver.pl'].
 
 % Generate the list containing the initial grid
 color(X, Y, C):-
